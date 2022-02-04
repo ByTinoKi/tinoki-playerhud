@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 version '1.0.0'
 author 'TinoKi' 
-description 'HUD by TinoKi'
+description 'Player HUD'
 
 ui_page 'html/index.html'
 
