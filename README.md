@@ -1,5 +1,7 @@
 # tk_playerhud!!!!! UPDATE SOON!!!!!
 
+The hud will be updated this weekend!
+
 Simple player hud for ESX server!
 
 Health, armor, hunger & thirst.
