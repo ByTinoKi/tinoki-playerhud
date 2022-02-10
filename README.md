@@ -8,4 +8,5 @@ Disable hud elements in client.lua
 
 More info and scripts -> discord: https://discord.gg/vxK3F2bsU9
 
-![218_20210622230005_1](https://user-images.githubusercontent.com/82338713/123080746-8971aa80-d41d-11eb-9900-a4e862220dac.png)
+
+![2022-02-10 23_52_24-FiveM - Tinoki ESX Dev](https://user-images.githubusercontent.com/82338713/153510356-f8abfc0f-eca9-4809-b896-28f8fa4f57d4.png)
