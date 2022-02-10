@@ -1,4 +1,4 @@
-# tinoki_playerhud!!!!! UPDATE SOON!!!!!
+# tinoki_playerhud!
 
 Simple player hud for ESX server!
 
