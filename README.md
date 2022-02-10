@@ -1,6 +1,4 @@
-# tk_playerhud!!!!! UPDATE SOON!!!!!
-
-The hud will be updated this weekend!
+# tinoki_playerhud!!!!! UPDATE SOON!!!!!
 
 Simple player hud for ESX server!
 
